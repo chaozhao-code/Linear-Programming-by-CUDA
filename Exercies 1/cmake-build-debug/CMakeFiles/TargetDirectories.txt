@@ -1,3 +1,0 @@
-C:/Users/hzauz/Desktop/EX1_ZHAO CHAO/cmake-build-debug/CMakeFiles/2D_Linear_Programmer.dir
-C:/Users/hzauz/Desktop/EX1_ZHAO CHAO/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hzauz/Desktop/EX1_ZHAO CHAO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
